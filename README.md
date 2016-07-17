@@ -22,7 +22,7 @@ To use this template, your computer needs [Node.js](https://nodejs.org/en/) 0.12
 Open the folder in your command line, and install the needed dependencies:
 
 ```bash
-cd projectname
+cd email-responsive-resume
 npm install
 ```
 
